@@ -1,0 +1,13 @@
+{
+  "appname": "aaxis-ijeyabalan-test-seller-1",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader DevCenterWebHookAdmin",
+  "clientid": "BB5D1A10-48F7-4E64-B310-0B7F501FE6D3",
+  "buyerid": "newbuyer",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
